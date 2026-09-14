@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Manahil Fatima 👋
 
-<!--
-**Manahil-Shabbir/Manahil-Shabbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSIT Student | Flutter Developer | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a BSIT student at the University of Management and Technology (UMT), interested in building practical software solutions and exploring emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Interests**
+- Flutter & Mobile Application Development
+- Artificial Intelligence & Machine Learning
+- Python
+- Data Science
+- Cloud Computing
+- Cyber Security
+
+🌱 **Currently Learning**
+- Flutter & Dart
+- Machine Learning
+- AI
+- Cloud Computing
+- Software Development
+
+🛠️ **Technical Skills**
+- Python
+- Dart
+- Flutter
+- Machine Learning
+- Artificial Intelligence
+- Git & GitHub
+
+📌 **Projects**
+I'm continuously working on academic and personal projects to strengthen my development and problem-solving skills.
+
+📫 **Connect with me**
+- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_LINK)
+
+---
+
+⭐ Thanks for visiting my profile!
